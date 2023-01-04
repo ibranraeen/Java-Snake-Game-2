@@ -5,3 +5,10 @@
 ![image](https://user-images.githubusercontent.com/77583339/209691171-18c65c59-778a-4e4b-a211-6f8bba53fafb.png)
 
 ![image](https://user-images.githubusercontent.com/77583339/209691231-13d26b54-7c3c-4196-92c9-a56bfa0ab183.png)
+
+# How to run this project?
+
+1. download zip file
+2. extract zip file
+3. import project in Netbeans ide
+all set.
